@@ -3,6 +3,33 @@
     margin-top: 55px;
 }
 
+.jumbotron {
+    background-image: url(pen1.JPG);
+    background-size: cover;
+    background-position: center;
+    color: yellow;
+    border: solid;
+    border-color: black;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.jumboBelow {
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.portfolioLink {
+    color: yellow;
+}
+
+.contactLink {
+    color: yellow;
+}
+
+.socialMediaLink {
+    color: yellow;
+}
+
+
 .container2 {
     padding: 10px;
 }
