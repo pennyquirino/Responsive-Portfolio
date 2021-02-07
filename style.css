@@ -17,12 +17,20 @@
     font-family: 'PT Sans Narrow', sans-serif;
 }
 
+.aboutLink {
+    color: yellow;
+}
+
 .portfolioLink {
     color: yellow;
 }
 
 .contactLink {
     color: yellow;
+}
+
+.contactLink2 {
+    color: black;
 }
 
 .socialMediaLink {
@@ -58,10 +66,22 @@
 }
 
 .card {
-    background-color: rgb(34, 34, 12);
+    background-color: rgb(29, 28, 28);
     color: white;
 }
 
 .cardLinks {
-    color: yellow;
+    color: white;
+}
+
+.cardContact {
+    align-items: center;
+    border-style: solid;
+    border-width: thin;
+ 
+}
+
+
+.list-group-item {
+    color: black;
 }
