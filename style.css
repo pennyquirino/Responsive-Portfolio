@@ -3,6 +3,8 @@
     margin-top: 55px;
 }
 
+
+
 .jumbotron {
     background-image: url(pen1.JPG);
     background-size: cover;
@@ -25,16 +27,12 @@
     color: yellow;
 }
 
-.contactLink {
+/* .contactLink {
     color: yellow;
-}
+} */
 
 .contactLink2 {
     color: black;
-}
-
-.socialMediaLink {
-    color: yellow;
 }
 
 
@@ -47,12 +45,6 @@
     margin-top: 30px;
 }
 
-.btn {
-    background-color: #555555;
-    border: 2px solid #818180;
-    border-radius: 45%;
-
-}
 
 .card-img-top {
     width: 100%;
@@ -80,6 +72,7 @@
     border-width: thin;
  
 }
+
 
 
 .list-group-item {
