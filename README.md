@@ -11,4 +11,4 @@ There are links to my GitHub profile, this deployed URL, linkedIn, and a little 
 Future work to be done: get a headshot to add some professionalism to this. Make it a bit more robust in coding but still keeping the design clean and simple. 
 
 
-![](weathercapture.JPG)
+![](capture.JPG)
