@@ -6,8 +6,8 @@
 
 
 .jumbotron {
-    background-image: url(pen1.JPG);
-    background-size: cover;
+    background-image: url(p3.JPG);
+    background-size: contain;
     background-position: center;
     color: yellow;
     border: solid;
@@ -16,6 +16,7 @@
 }
 
 .jumboBelow {
+    color: black;
     font-family: 'PT Sans Narrow', sans-serif;
 }
 
