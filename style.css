@@ -6,27 +6,33 @@
 
 
 .jumbotron {
-    background-image: url(p3.JPG);
-    background-size: contain;
+    background-image: url(laptop.jpeg);
+    background-size: cover;
     background-position: center;
     color: yellow;
+    text-shadow: 2px 2px 4px #000000;
     border: solid;
     border-color: black;
     font-family: 'PT Sans Narrow', sans-serif;
 }
 
 .jumboBelow {
+
     color: black;
     font-family: 'PT Sans Narrow', sans-serif;
+    font-size: xx-large;
 }
 
 .aboutLink {
     color: yellow;
+    font-size:larger;
 }
 
 .portfolioLink {
     color: yellow;
+    font-size: larger;
 }
+
 
 /* .contactLink {
     color: yellow;
