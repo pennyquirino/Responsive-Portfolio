@@ -8,7 +8,10 @@ In addition, there must be a way to contact me and a downloadable updated resume
 There are links to my GitHub profile, this deployed URL, linkedIn, and a little bit about me.
 
 
-Future work to be done: get a headshot to add some professionalism to this. Make it a bit more robust in coding but still keeping the design clean and simple. 
+Future work to be done: get a headshot to add some professionalism to this. Make it a bit more robust in coding but still keeping the design clean and simple.
+
+
+![](Capture.JPG)
 
 
 
